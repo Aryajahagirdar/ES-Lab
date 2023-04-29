@@ -1,2 +1,2 @@
-# ES_Lab
+# ES Lab
 CCE 6th Sem Embedded Systems Lab
