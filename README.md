@@ -1,2 +1,2 @@
 # ES Lab
-CCE 6th Sem Embedded Systems Lab
+MIT Manipal, CCE 6th semester - Embedded Systems Lab
